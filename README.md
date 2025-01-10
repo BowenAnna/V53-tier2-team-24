@@ -37,5 +37,5 @@ coding!
 **Damilola Oshinowo - SCRUM Master** [GitHub](https://github.com/dami-boy) / [LinkedIn](https://linkedin.com/in/damilola-oshinowo)  
 **Anna Bowen - Developer** [GitHub](https://github.com/bowenanna) / [LinkedIn](https://www.linkedin.com/in/realannabowen/)  
 **Teammate name** [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)  
-   ...
+   ...  
 **Teammate name** [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)  
